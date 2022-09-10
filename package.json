@@ -1,0 +1,16 @@
+{
+  "name": "wedding-services-calculator",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Michał Orzechowski",
+  "devDependencies": {
+    "@types/jest": "25.2.3",
+    "jest": "26.0.1",
+    "prettier": "^2.7.1",
+    "ts-jest": "26.0.0",
+    "typescript": "3.9.3"
+  }
+}
